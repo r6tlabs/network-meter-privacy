@@ -1,12 +1,12 @@
 # Network Meter Privacy Policy
 
-_Last updated: November 13, 2026_
+_Last updated: November 21, 2026_
 
 Network Meter ("the app", Android package `com.r6tlabs.networkmeter`) is published by R6T LABS LLC (R6TLabs, "we").
 
 ## The short version
 
-Network Meter processes network-usage information on your device. We do not receive or store your usage history on servers, and we do not sell it. The app has no internet permission and does not upload your data. You can choose to export a CSV file and share it through another app.
+Network Meter processes network usage on your device. We do not receive or sell your usage history. You can choose to export a CSV file and share it through another app. Versions with banner ads connect to Google AdMob as described below.
 
 ## What the app reads, and where it stays
 
@@ -17,6 +17,14 @@ Network Meter processes network-usage information on your device. We do not rece
 - **Your settings.** Your data plan limit, reset day, theme and other preferences.
 
 The app's recorded history and settings stay in its private storage on your device. Android's own network-usage records are read locally when you grant Usage Access. App backups are disabled.
+
+## Advertising
+
+Versions with ads request a non-personalized banner from Google AdMob on Home. We do not send your traffic readings, usage history, installed app list, data plan or CSV exports to Google for ads. Network Meter does not request Android's advertising ID permission.
+
+For advertising, measurement and fraud prevention, Google's SDK may collect and share your IP address, approximate location inferred from it, app or ad interactions, diagnostic information and device or account identifiers such as the app set ID. The SDK may access the Android advertising ID on older devices where it is available without the permission. Google encrypts this data in transit. [How Google uses information from apps that use its services](https://policies.google.com/technologies/partner-sites).
+
+Where Google requires a privacy choice, the app shows a form before requesting ads. You can review or change those choices under Settings → Ad privacy choices when that option is available.
 
 ## Exports
 
@@ -30,7 +38,7 @@ To remove all of Network Meter's local app data, including settings, clear its s
 
 ## Children
 
-The app is not directed at children and does not knowingly collect any information from anyone.
+The app is not directed at children.
 
 ## Changes
 
