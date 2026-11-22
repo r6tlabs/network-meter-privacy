@@ -22,7 +22,7 @@ The app's recorded history and settings stay in its private storage on your devi
 
 Versions with ads request a non-personalized banner from Google AdMob on Home. We do not send your traffic readings, usage history, installed app list, data plan or CSV exports to Google for ads. Network Meter does not request Android's advertising ID permission.
 
-For advertising, measurement and fraud prevention, Google's SDK may collect and share your IP address, approximate location inferred from it, app or ad interactions, diagnostic information and device or account identifiers such as the app set ID. The SDK may access the Android advertising ID on older devices where it is available without the permission. Google encrypts this data in transit. [How Google uses information from apps that use its services](https://policies.google.com/technologies/partner-sites).
+For advertising, measurement and fraud prevention, Google's SDK may collect and share your IP address, approximate location inferred from it, app or ad interactions, and device or account identifiers such as the app set ID. It can also collect and share diagnostics and SDK crash information to measure performance. Google encrypts this data in transit. [How Google uses information from apps that use its services](https://policies.google.com/technologies/partner-sites).
 
 Where Google requires a privacy choice, the app shows a form before requesting ads. You can review or change those choices under Settings → Ad privacy choices when that option is available.
 
